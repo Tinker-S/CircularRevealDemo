@@ -3,7 +3,7 @@ CircularRevealDemo
 
 This is a sample app that shows circular reveal animation between activity switch.
 
-![effect](/desktop.gif)
+<img src="/desktop.gif" width="50%" height="50%">
 
 If we jump from activity A to B, then the key steps for this effect just like below
 1. Declare activity B with no animation theme.
